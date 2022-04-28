@@ -1,0 +1,9 @@
+{
+    "network": "polygon",
+    "token": "0xF9D3e8669A902555305EfaD35C520746Fa1033B1",
+    "gamebrain": "0xF6114cd71A5957045E397FD94d76bB44C5163E74",
+    "signer_priv": "",
+    "signer_pub": "0x7E155B648c356eA2955B7e167040b610fb1ba0C6",
+    "new_owner": "0xf9b8f225c753ebb8915702caa2d4e99811189a53",
+    "price": "84000000000000000"
+}
