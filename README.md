@@ -1,15 +1,8 @@
-# Basic Sample Hardhat Project
+# Smart Contracts for Hotdogface Rock Paper Sissors 
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
 
-Try running some of the following tasks:
 
-```shell
-npx hardhat accounts
-npx hardhat compile
-npx hardhat clean
-npx hardhat test
-npx hardhat node
-node scripts/sample-script.js
-npx hardhat help
-```
+Live on Polygon
+
+token = 0xF9D3e8669A902555305EfaD35C520746Fa1033B1
+gamebrain  = 0xF6114cd71A5957045E397FD94d76bB44C5163E74
